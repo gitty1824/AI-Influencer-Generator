@@ -1,0 +1,4 @@
+openai>=1.0.0
+ gtts>=2.2.3
+ diffusers>=0.24.0
+ pillow

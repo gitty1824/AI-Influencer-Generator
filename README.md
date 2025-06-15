@@ -16,7 +16,10 @@ If you enjoy using AI Influencer, we'd appreciate your support with a star ⭐ o
 
 ### Steps to run
 
-Open the colab notebook from [here](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb) and run all the steps one-by-one
+There are two ways to experiment with AI Influencer.
+
+1. **Run the original notebook** – open the Colab notebook from [here](https://github.com/SamurAIGPT/AI-Influencer/blob/main/AI_Influencer.ipynb) and execute each cell.
+2. **Run the desktop app** – install the requirements with `pip install -r requirements.txt` and then launch `python app.py`. A small Tkinter interface will open allowing you to enter a description and speech text. The app will generate an audio file using `gTTS` and shows placeholders for the image and video generation steps.
 
 ### Technologies used
 
